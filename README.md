@@ -89,11 +89,11 @@ data-warehouse-project/
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
-## 👋 Hi, I’m Exmond Yeboah
+## 🌟 About Me
 
+## 👋 Hi, I’m Exmond Yeboah
 I’m a Data Engineer passionate about building scalable, reliable, and data-driven systems.  
 My work focuses on creating efficient data pipelines, optimizing ETL workflows, and enabling seamless data access for analytics and machine learning.
-
 💡 I enjoy solving data challenges, experimenting with new technologies, and turning complex datasets into clear, actionable insights.  
 🚀 Always learning, always building — with a passion for clean code, collaboration, and continuous improvement.
 
